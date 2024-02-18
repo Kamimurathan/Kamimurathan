@@ -11,7 +11,7 @@ Estou aberto a oportunidades profissionais e adoraria fazer parte de equipes que
 <br>
 Tenho uma enorme paixão pela dança e por jogos digitais.
 <br>
-Quando não estou estudando, estou assistindo animes (atualmente só One Piece), ouvindo música (BTS) e/ou jogando (League of Legends/TFT).
+Quando não estou estudando, estou assistindo animes (atualmente só One Piece), ouvindo música e/ou jogando League of Legends/TFT ou algum jogo da steam.
 <br>
 <br>
 Sinta-se à vontade para entrar em contato comigo, pode me chamar nas minhas redes sociais caso queira conversar.
