@@ -19,8 +19,6 @@ E-mail: nathankamimura@outlook.com
 
 WhatsApp: +55 (11) 964263954
 
-https://www.linkedin.com/in/nathan-kamimura/
-
 ##
 
 #### 💻 Tecnologias que eu conheço:
