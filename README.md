@@ -13,7 +13,7 @@ Tecnologias que já utilizei em projetos para desenvolvimento Back-End:
 
 <ul><li>Node.js | Express | API Rest | Docker | Postgres | MongoDB | JWT</li></ul>
 
-Sinta-se a vontade para entrar em contato comigo através do meu E-mail, WhatsApp ou meu linkedin.
+Sinta-se a vontade para entrar em contato comigo através do meu E-mail ou WhatsApp.
 
 E-mail: nathankamimura@outlook.com
 
