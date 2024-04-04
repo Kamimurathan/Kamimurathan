@@ -21,8 +21,8 @@ WhatsApp: +55 (11) 964263954
 
 ##
 
-#### 💻 Tecnologias que eu conheço:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,react)](https://skillicons.dev)
+#### 💻 Tecnologias:
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,docker,postgres,mongodb,express)](https://skillicons.dev)
 
 ##
 
