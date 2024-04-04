@@ -1,20 +1,25 @@
-Olá, meu nome é Nathan, tenho 28 anos, moro em São Paulo/SP, sou um Desenvolvedor Front-End.
+Olá, meu nome é Nathan, tenho 29 anos, moro em São Paulo/SP, sou um Desenvolvedor Front-End.
 <br>
 <br>
 Descendente de japoneses, apaixonado pela tecnologia desde pequeno, porém, a programação é algo novo na minha vida, mas posso dizer com toda a certeza, que é satisfatório estudar e realizar projetos com os conhecimentos que venho adquirindo no <a href="https://rodolfomori.com.br/devclub" target="_blank">DevClub</a>.
-<br>
-<br>
-Possuo uma excelente memória, tenho facilidade em aprender e estou sempre buscando evolução pessoal e profissional.
-<br>
-Estou aberto a oportunidades profissionais e adoraria fazer parte de equipes que compartilham da mesma paixão pelo desenvolvimento de software.
-<br>
-<br>
-Tenho uma enorme paixão pela dança e por jogos digitais.
-<br>
-Quando não estou estudando, estou assistindo animes (atualmente só One Piece), ouvindo música e/ou jogando League of Legends/TFT ou algum jogo da steam.
-<br>
-<br>
-Sinta-se à vontade para entrar em contato comigo, pode me chamar nas minhas redes sociais caso queira conversar.
+
+Atualmente, meu foco principal é aprimorar minhas habilidades como desenvolvedor em React, JavaScript e TypeScript, reconhecendo sua importância no cenário atual de desenvolvimento de software. Além disso, estou empenhado em fortalecer minhas soft skills, especialmente trabalho em equipe. Estou determinado a alcançar um nível mais elevado em excelência técnica e habilidades interpessoais para impulsionar meu crescimento profissional e contribuir de forma significativa para os projetos futuros.
+
+Principais tecnologias que domino para desenvolvimento Front-End:
+
+<ul><li>HTML5 | HTML Semântico | CSS3 | JavaScript | React.js | Styled-Components | React Hooks</li></ul>
+
+Tecnologias que já utilizei em projetos para desenvolvimento Back-End:
+
+<ul><li>Node.js | Express | API Rest | Docker | Postgres | MongoDB | JWT</li></ul>
+
+Sinta-se a vontade para entrar em contato comigo através do meu E-mail, WhatsApp ou meu linkedin.
+
+E-mail: nathankamimura@outlook.com
+
+WhatsApp: +55 (11) 964263954
+
+https://www.linkedin.com/in/nathan-kamimura/
 
 ##
 
