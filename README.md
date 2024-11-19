@@ -7,7 +7,7 @@ Atualmente, meu foco principal é aprimorar minhas habilidades como desenvolvedo
 
 Principais tecnologias que domino para desenvolvimento Front-End:
 
-<ul><li>HTML5 | HTML Semântico | CSS3 | JavaScript | React.js | Styled-Components | React Hooks</li></ul>
+<ul><li>HTML5 | HTML Semântico | CSS3 | JavaScript | TypeScript | React.js | Styled-Components | React Hooks</li></ul>
 
 Tecnologias que já utilizei em projetos para desenvolvimento Back-End:
 
