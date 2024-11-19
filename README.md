@@ -3,7 +3,7 @@ Olá, meu nome é Nathan, tenho 29 anos, moro em São Paulo/SP, sou um Desenvolv
 <br>
 Descendente de japoneses, apaixonado pela tecnologia desde pequeno, porém, a programação é algo novo na minha vida, mas posso dizer com toda a certeza, que é satisfatório estudar e realizar projetos com os conhecimentos que venho adquirindo no <a href="https://rodolfomori.com.br/devclub" target="_blank">DevClub</a>.
 
-Atualmente, meu foco principal é aprimorar minhas habilidades como desenvolvedor em React, JavaScript e TypeScript, reconhecendo sua importância no cenário atual de desenvolvimento de software. Além disso, estou empenhado em fortalecer minhas soft skills, especialmente trabalho em equipe. Estou determinado a alcançar um nível mais elevado em excelência técnica e habilidades interpessoais para impulsionar meu crescimento profissional e contribuir de forma significativa para os projetos futuros.
+Atualmente, meu foco principal é aprimorar minhas habilidades como desenvolvedor em React, JavaScript e TypeScript, reconhecendo sua importância no cenário atual de desenvolvimento de software.
 
 Principais tecnologias que domino para desenvolvimento Front-End:
 
