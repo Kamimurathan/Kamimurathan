@@ -1,4 +1,4 @@
-Olá, meu nome é Nathan, tenho 29 anos, moro em São Paulo/SP, sou um Desenvolvedor Front-End.
+Olá, meu nome é Nathan, tenho 30 anos, moro em São Paulo/SP, sou um Desenvolvedor Front-End.
 <br>
 <br>
 Descendente de japoneses, apaixonado pela tecnologia desde pequeno, porém, a programação é algo novo na minha vida, mas posso dizer com toda a certeza, que é satisfatório estudar e realizar projetos com os conhecimentos que venho adquirindo no <a href="https://rodolfomori.com.br/devclub" target="_blank">DevClub</a>.
